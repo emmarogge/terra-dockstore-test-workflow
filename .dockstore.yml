@@ -1,6 +1,6 @@
 version: 1.0
-workflows: 
-  - subclass: CWL
-    primaryDescriptorPath: /Dockstore.cwl
-    authors:
-      - name: Gary Luu
+workflows:
+  - subclass: WDL
+  authors:
+    - name: Emma Rogge
+      email: emmarogge@google.com
